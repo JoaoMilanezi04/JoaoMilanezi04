@@ -3,7 +3,7 @@
  
 <div align=center>
 <div>
-            <h3>Hi 👋 my name is Thang 😎</h3>
+            <h3>Hi 👋 my name is João 😎</h3>
     </a>
     <ul>
         <li>
