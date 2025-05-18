@@ -6,8 +6,6 @@
             <h3>Hi 👋 my name is João 😎</h3>
     </a>
     <ul>
-        <li>
-            🤗 I'm a new in Github 🥳
         </li>
         <li>
             👉 I'm a student 👨‍🎓
