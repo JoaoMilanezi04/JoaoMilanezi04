@@ -1,7 +1,12 @@
-[![MasterHead](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)](https://github.com/JoaoMilanezi04)
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> João Francisco Coitino Milanezi</h1>
 
 <div align="center">
+
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHNwbm12MXNxaGV0NmgzNHl4NmdmMGd1ZjVpbjd4eml4YWJ5bnN2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/658aOsBU5YXIU24Cvn/giphy.gif" alt="MasterHead" />
+
+  <h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+    João Francisco Coitino Milanezi
+  </h1>
 
 🎓 Estudante de Engenharia de Software | PUC-PR – 1º período  
 📍 Tenho 21 anos e moro em Curitiba, Paraná – Brasil 🇧🇷  
@@ -9,9 +14,8 @@
 
 [![Email](https://img.shields.io/badge/Email-joaomilanezi10@gmail.com-red)](mailto:joaomilanezi10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoMilanezi04-black?logo=github)](https://github.com/JoaoMilanezi04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Milanezi-blue?logo=linkedin)](https://www.linkedin.com/in/joao-francisco-m-bbb790341/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Milanezi-blue?logo=linkedin)](https://www.linkedin.com/in/joao-francisco-m-bbb790341/)  
 
-</div>
 
 ---
 
@@ -26,17 +30,17 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 ## 🧠 Tecnologias que estou aprendendo
 
-- 🐍 **Python** — Intermediário  
-  Utilizado em scripts, projetos pessoais e bots (ex: Bot para Discord)
+<div align="center">
 
-- 🌐 **HTML & CSS** — Intermediário  
-  Aplicado em sites estáticos, como o projeto para o Landucci Hair Studio
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-000000?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🎮 **C++ com Unreal Engine 5** — Básico  
-  Estudo focado em desenvolvimento de jogos
-
-- 📁 **Git & GitHub** — Básico  
-  Para controle de versão e colaboração em projetos
+</div>
 
 ---
 
@@ -63,9 +67,9 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 | 📁 Projeto                                         | 💡 Descrição                                                                 | 🛠️ Tecnologias            |
 |--------------------------------------------------|------------------------------------------------------------------------------|----------------------------|
-| [**Landucci Hair Studio**](https://github.com/JoaoMilanezi04/Landucci-Hair-Studio) | Página web desenvolvida com HTML e CSS para um cliente real.                | HTML, CSS                  |
-| [**Protótipo de Jogo**]()         | Protótipo de jogo desenvolvido com Unreal Engine 5, em aprendizado inicial.  | C++, Unreal Engine 5       |
-| [**Bot para Discord**](https://github.com/JoaoMilanezi04/Bot-Discord)              | Bot em desenvolvimento com comandos personalizados.                         | Python, Discord.py         |
+| [**Landucci Hair Studio**](https://github.com/JoaoMilanezi04/Landucci-Hair-Studio) | Página web desenvolvida com HTML e CSS para um cliente real.                | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+| [**Protótipo de Jogo**]()         | Protótipo de jogo desenvolvido com Unreal Engine 5, em aprendizado inicial.  | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=unrealengine&logoColor=white) |
+| [**Bot para Discord**](https://github.com/JoaoMilanezi04/Bot-Discord)              | Bot em desenvolvimento com comandos personalizados.                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Discord.py](https://img.shields.io/badge/discord.py-7289DA?style=flat&logo=discord&logoColor=white) |
 
 ---
 
