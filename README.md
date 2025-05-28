@@ -86,6 +86,6 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 - 📧 joaomilanezi10@gmail.com  
 - 📱 (41) 99804-8942  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/joao-francisco-milaenzi-bbb790341/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/joao-francisco-c-bbb790341/)
 
 ---
