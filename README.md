@@ -9,7 +9,7 @@
 
 [![Email](https://img.shields.io/badge/Email-joaomilanezi10@gmail.com-red)](mailto:joaomilanezi10@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoMilanezi04-black?logo=github)](https://github.com/JoaoMilanezi04)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Milanezi-blue?logo=linkedin)](https://www.linkedin.com/in/joao-francisco-milaenzi-bbb790341/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Milanezi-blue?logo=linkedin)](https://www.linkedin.com/in/joao-francisco-m-bbb790341/)
 
 </div>
 
