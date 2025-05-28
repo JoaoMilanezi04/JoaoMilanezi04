@@ -59,7 +59,7 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 - 🇪🇸 Espanhol — Nativo  
 - 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Fluente (educação bilíngue desde a infância)
+- 🇺🇸 Inglês — Avançado (educação bilíngue desde a infância)
 
 ---
 
