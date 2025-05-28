@@ -18,7 +18,6 @@
 ## 👨‍💻 Sobre Mim
 
 Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 21 anos e sou fluente em espanhol e português, além de possuir inglês avançado.  
-🌍 Vivi no Uruguai por 12 anos antes de me mudar para o Brasil, o que me proporcionou uma rica vivência multicultural desde a infância.
 
 💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de jogos**.  
 🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de iniciar minha carreira profissional e aplicar meus conhecimentos na prática.
