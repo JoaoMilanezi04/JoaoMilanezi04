@@ -64,9 +64,9 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 | 📁 Projeto                                         | 💡 Descrição                                                                 | 🛠️ Tecnologias            |
 |--------------------------------------------------|------------------------------------------------------------------------------|----------------------------|
-| [**Landucci Hair Studio**](https://github.com/JoaoMilanezi04/landucci-hair-studio) | Página web desenvolvida com HTML e CSS para um cliente real.                | HTML, CSS                  |
-| [**Protótipo de Jogo**](https://github.com/JoaoMilanezi04/unreal-prototype)         | Protótipo de jogo desenvolvido com Unreal Engine 5, em aprendizado inicial.  | C++, Unreal Engine 5       |
-| [**Bot para Discord**](https://github.com/JoaoMilanezi04/discord-bot)              | Bot em desenvolvimento com comandos personalizados.                         | Python, Discord.py         |
+| [**Landucci Hair Studio**](https://github.com/JoaoMilanezi04/Landucci-Hair-Studio) | Página web desenvolvida com HTML e CSS para um cliente real.                | HTML, CSS                  |
+| [**Protótipo de Jogo**]()         | Protótipo de jogo desenvolvido com Unreal Engine 5, em aprendizado inicial.  | C++, Unreal Engine 5       |
+| [**Bot para Discord**](https://github.com/JoaoMilanezi04/Bot-Discord)              | Bot em desenvolvimento com comandos personalizados.                         | Python, Discord.py         |
 
 ---
 
