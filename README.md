@@ -78,8 +78,8 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMilanezi04&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMilanezi04&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoaoMilanezi04&show_icons=true&theme=tokyonight" width="48%&cache=0"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMilanezi04&layout=compact&theme=tokyonight" width="48%&cache=0"/>
 </div>
 
 ---
