@@ -100,10 +100,6 @@ Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da
 
 ---
 
-## 📫 Contato
-
-- 📧 joaomilanezi10@gmail.com  
-- 📱 (41) 99804-8942  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joao-francisco-c-bbb790341/)
 
 ---
