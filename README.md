@@ -16,16 +16,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-JoaoMilanezi04-black?logo=github)](https://github.com/JoaoMilanezi04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Milanezi-blue?logo=linkedin)](https://www.linkedin.com/in/joao-francisco-m-bbb790341/)  
 
-
----
-
-## 👨‍💻 Sobre Mim
-
-Sou estudante de Engenharia de Software na PUC-PR, atualmente no 1º período da graduação. Tenho 21 anos e sou fluente em espanhol e português, além de possuir inglês avançado.  
-
-💡 Tenho grande interesse por tecnologia, especialmente nas áreas de **programação** e **desenvolvimento de jogos**.  
-🎯 Estou à procura da minha primeira oportunidade como **estagiário**, com o objetivo de iniciar minha carreira profissional e aplicar meus conhecimentos na prática.
-
 ---
 
 ## 🧠 Tecnologias que estou aprendendo
