@@ -51,20 +51,6 @@
 - 🇧🇷 Português — Nativo  
 - 🇺🇸 Inglês — Avançado (educação bilíngue desde a infância)
 
----
-
-## 📂 Projetos
-
-| 📁 Projeto                                         | 💡 Descrição                                                                 | 🛠️ Tecnologias            |
-|--------------------------------------------------|------------------------------------------------------------------------------|----------------------------|
-| [**Landucci Hair Studio**](https://github.com/JoaoMilanezi04/Landucci-Hair-Studio) | Página web desenvolvida com HTML e CSS para um cliente real.                | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
-| [**Protótipo de Jogo**]()         | Protótipo de jogo desenvolvido com Unreal Engine 5, em aprendizado inicial.  | ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Unreal](https://img.shields.io/badge/Unreal_Engine-000000?style=flat&logo=unrealengine&logoColor=white) |
-| [**Bot para Discord**](https://github.com/JoaoMilanezi04/Bot-Discord)              | Bot em desenvolvimento com comandos personalizados.                         | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Discord.py](https://img.shields.io/badge/discord.py-7289DA?style=flat&logo=discord&logoColor=white) |
-| [**Sistema de Locadora**](https://github.com/JoaoMilanezi04/Sistema-Locadora) | Aplicação desktop completa para gerenciamento de uma locadora de veículos. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/Tkinter-FFD43B?style=flat&logo=python&logoColor=black) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
